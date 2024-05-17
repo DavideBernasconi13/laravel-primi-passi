@@ -20,6 +20,7 @@
     <main class="bg-dark">
         <div class="container">
             <h1 class="text-danger">Hello wordl!</h1>
+            <a href="welcome">Vai alla welcome page</a>
         </div>
     </main>
 
