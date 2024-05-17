@@ -17,9 +17,10 @@
 
 <body>
 
-    <main class="bg-dark">
+    <main class="bg-dark text-light">
         <div class="container">
             <h1 class="text-danger">Hello wordl!</h1>
+            <p>Bentornato, {{$name}} {{$surname}}</p>
             <a href="welcome">Vai alla welcome page</a>
         </div>
     </main>
